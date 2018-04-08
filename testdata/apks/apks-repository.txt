@@ -1,0 +1,1 @@
+in case of mobile testing, this folder keeps apk files

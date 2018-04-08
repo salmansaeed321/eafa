@@ -1,0 +1,8 @@
+webdrivers repository
+required drivers must be present in this folder
+
+Chrome driver can be downloaded from below link:
+http://chromedriver.storage.googleapis.com/index.html?path=2.36/
+
+Firefox driver can be downloaded from:
+https://github.com/mozilla/geckodriver/releases
