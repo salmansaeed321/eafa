@@ -10,7 +10,7 @@
 		<cucumber-jvm.version>1.2.5</cucumber-jvm.version>
 		<selenium.version>3.11.0</selenium.version>
 		<junit.version>4.13.1,</junit.version>
-		<log4j2.version>2.16.0</log4j2.version>
+		<log4j2.version>2.17.0</log4j2.version>
 	</properties>
 
 	<build>
