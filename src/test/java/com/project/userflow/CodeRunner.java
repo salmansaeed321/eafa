@@ -20,7 +20,7 @@ import cucumber.api.junit.Cucumber;
 		// To define feature files folder
 		features = "src/main/resources/features",
 
-		// We can comment/uncomment tags as per requirement. Only uncommented tags will be excuted.
+		// We can comment/uncomment tags as per requirement. Only uncommented tags will be executed.
 		// tags = { "@UploadDocNegativeFlows,@uopladDoc1"}
 			tags = { "@Google"})
 
